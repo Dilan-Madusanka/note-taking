@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Note Taking
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Dilan
+Implementation-Vendor-Id: com.dilan.insharp
+Build-Jdk: 1.8.0_74
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/note-taking
+Created-By: Maven Integration for Eclipse
+
